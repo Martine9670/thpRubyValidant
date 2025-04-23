@@ -1,4 +1,4 @@
-puts "Choisis un nombre"
+puts "Choisis un nombre."
 
 nombre = gets.chomp.to_i
 
