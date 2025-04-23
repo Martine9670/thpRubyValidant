@@ -1,0 +1,1 @@
+puts "Choisis un nombre"
