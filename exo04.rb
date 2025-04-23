@@ -1,4 +1,4 @@
-puts "Quelle est ton année de naissance ?"
+puts "Quelle est ton année de naissance ??"
 
 year = gets.chomp.to_i
 
